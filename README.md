@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning competitive programming and Front-end developing  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Python stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
